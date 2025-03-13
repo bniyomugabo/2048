@@ -1,0 +1,1 @@
+Développement d'une version du célèbre jeu 2048 en Python avec Tkinter. Ce projet a permis de créer une interface graphique fluide et fonctionnelle, avec des interactions utilisateur dynamiques et des algorithmes optimisés pour la gestion des déplacements et des combinaisons de tuiles
